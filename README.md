@@ -1,4 +1,5 @@
-### Hi there 👋
+I am Software Engineer at [@loft-br](https://github.com/loft-br) and developer of [Foundry VTT](https://foundryvtt.com/) modules in free time.  
+Linkedin: https://www.linkedin.com/in/patrickdasilveiraporto/
 
 <!--
 **patrickporto/patrickporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
