@@ -1,4 +1,4 @@
-I am Software Engineer at [@loft-br](https://github.com/loft-br) and developer of [Foundry VTT](https://foundryvtt.com/) modules in free time.  
+I am Software Engineer. 
 * Linkedin: [/patrickdasilveiraporto](https://www.linkedin.com/in/patrickdasilveiraporto/)  
 * Discord: [patrickporto#9260](https://discord.com/users/9260)
 
